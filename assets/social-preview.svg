@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <rect width="1280" height="640" fill="#0b0f19"/>
+  <rect x="60" y="60" width="1160" height="520" rx="28" fill="#111827" stroke="#5eead4" stroke-width="3"/>
+  <text x="90" y="190" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">URA-CC — CouchController</text>
+  <text x="90" y="250" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="32">Universal Remote Access</text>
+  <text x="90" y="340" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="30">Phone-to-PC remote control with live desktop view,</text>
+  <text x="90" y="385" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="30">thumb-dial mouse movement, clicks, and keyboard input.</text>
+  <circle cx="1040" cy="340" r="110" fill="#0f172a" stroke="#5eead4" stroke-width="8"/>
+  <circle cx="1040" cy="340" r="34" fill="#5eead4"/>
+</svg>
